@@ -32,6 +32,7 @@ public class SignInActivity extends AppCompatActivity {
             }
         });
 
+
         EditText password = (EditText) findViewById(R.id.editPasswordField);
         password.setOnFocusChangeListener(new View.OnFocusChangeListener() {
             @Override
