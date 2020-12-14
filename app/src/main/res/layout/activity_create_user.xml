@@ -48,7 +48,7 @@
           android:textSize="20sp" />
 
       <EditText
-          android:id="@+id/editTextPersonName2"
+          android:id="@+id/editTextUserName"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_marginStart="100dp"
@@ -198,7 +198,7 @@
 
 
       <Button
-          android:id="@+id/button"
+          android:id="@+id/submit_button_user"
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:layout_marginTop="25dp"
